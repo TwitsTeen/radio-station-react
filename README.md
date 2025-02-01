@@ -2,13 +2,17 @@
 
 This project is a React-based web application for a radio station. It allows users to listen to live radio thanks to https://www.radio-browser.info/ api.
 
+## Public Instance
+
+A public instance is available at https://twitsteen.github.io/radio-station-react/
+
 ## Features
 
 - Live radio streaming
 - Search a radio
 - Favorite a radio
 
-## Installation
+## Self hosting
 
 1. Clone the repository:
 
@@ -41,4 +45,5 @@ npm start
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
+
 # radio-station-react
